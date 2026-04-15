@@ -1,4 +1,4 @@
-# CMOS Bandgap Reference Circuit (PTAT-Based Implementation) (Generated with AI help)
+# CMOS Bandgap Reference Circuit (PTAT-Based Implementation) (ReadMe Generated with AI help)
 
 ## Overview
 This project presents the design and simulation of a CMOS-based voltage reference circuit using LTspice. The circuit implements a PTAT (Proportional-To-Absolute-Temperature) voltage generation mechanism using current mirrors and diode-connected devices.
